@@ -1,15 +1,15 @@
 body {
-    background-color: #e4a6c5;
+    background-color: #e599dd;
     font-family: 'Arial', sans-serif;
 }
 .container {
     max-width: 900px;
     margin-top: 50px;
-    border: 5px solid #725353;
+
 }
 
 .container img {
-   width: 150px;
+   width: 200px;
    height: inherit;
    margin-top: 20px;
    margin-bottom: 20px;
@@ -22,13 +22,15 @@ body {
     margin-bottom: 10px;
 }
 .profile-header h2 {
-    color: #695960;
+    color: #0c0c0c;
+    
 }
 .section-title {
-    margin-top: 30px;
-    border-bottom: 2px solid #111111;
+    margin-top: 20px;
+    border-bottom: 5px solid #111111;
     padding-bottom: 10px;
     margin-bottom: 20px;
+    
 }
 .contact-info, .education, .experience {
     margin-bottom: 30px;
